@@ -11,5 +11,8 @@ if(i <= 60):
 elif(61 <= i < 80):
     print("Grade Nilai Anda B")
     print("Anda Sudah Lulus")
+elif(i >= 80):
+    print("Grade Nilai Anda A")
+    print("Anda Lulus Dengan Hasil Memuaskan")
 else:
     print("Anda Salah Memasukan Input")
